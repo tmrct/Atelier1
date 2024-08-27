@@ -2,7 +2,7 @@
   "name": "atelier1",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "formData.html",
   "type": "module",
   "engines": {
     "node": "16.14.2"
